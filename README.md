@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey there 👋
+I'm called Velnaro on github and im based in the U.K.
+
+I'm currently working on a simple calculator .
+
+I'm currently learning rust but already know some python. 
+
+My skills are limited though but I do plan to improve my skills.
 
 <!--
 **Velnaro/Velnaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

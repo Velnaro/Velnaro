@@ -7,6 +7,8 @@ I'm currently learning rust but already know some python.
 
 My skills are limited though but I do plan to improve my skills.
 
+I use Visual studio code for coding in python.
+
 <!--
 **Velnaro/Velnaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
